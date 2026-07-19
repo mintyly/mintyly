@@ -17,12 +17,12 @@ $ tree ~/mintyly
 │   └── occasional ctf challenge author, mostly crypto/misc
 │
 ├── ctf.txt
-│   ├── writeups → <a href="https://june.ong/ctfblog">june.ong/ctfblog</a>
+│   ├── writeups -> <a href="https://june.ong/ctfblog">june.ong/ctfblog</a>
 │   ├── authored: LNC 4.0/5.0, YCEP CCTF 25/26, YCEP 2024
 │   └── team: Yes But No (YBN) · head of pr
 │
 └── elsewhere.txt
-    ├── portfolio → <a href="https://june.ong">june.ong</a>
-    ├── writing   → <a href="https://june.ong/writing">june.ong/writing</a>
-    └── linkedin  → <a href="https://linkedin.com/in/mintyly">in/mintyly</a>
+    ├── portfolio -> <a href="https://june.ong">june.ong</a>
+    ├── writing   -> <a href="https://june.ong/writing">june.ong/writing</a>
+    └── linkedin  -> <a href="https://linkedin.com/in/mintyly">in/mintyly</a>
 </pre>
