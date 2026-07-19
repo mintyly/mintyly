@@ -1,5 +1,5 @@
 <pre>
-$ cat ~/mintyly/readme.txt
+$ cat ~/mintyly/README.md
 
 hi, june/mintyly here !
 this is where i dump code. everything else (writing,
