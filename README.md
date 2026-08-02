@@ -9,7 +9,7 @@ $ tree ~/mintyly
 
 ~/mintyly
 ├── now.txt
-│   ├── y2 information security @ nus
+│   ├── penultimate information security @ nus
 │   ├── cybersecurity governance intern @ schneider electric ea zone
 │   │   └── jun–dec 2026
 │   ├── undergrad research @ nus cradle
