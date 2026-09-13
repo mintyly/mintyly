@@ -12,8 +12,6 @@ $ tree ~/mintyly
 │   ├── penultimate information security @ nus
 │   ├── cybersecurity governance intern @ schneider electric ea zone
 │   │   └── jun–dec 2026
-│   ├── undergrad research @ nus
-│   │   └── benchmarking llm agents on autonomous red-teaming
 │   └── occasional ctf challenge author, mostly crypto/misc
 │
 ├── ctf.txt
