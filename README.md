@@ -10,7 +10,7 @@ $ tree ~/mintyly
 ~/mintyly
 ├── now.txt
 │   ├── penultimate information security @ nus
-│   ├── cybersecurity governance intern @ schneider electric ea zone
+│   ├── cybersecurity intern @ schneider electric ea zone
 │   │   └── jun–dec 2026
 │   └── occasional ctf challenge author, mostly crypto/misc
 │
